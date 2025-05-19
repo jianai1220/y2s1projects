@@ -1,0 +1,228 @@
++----------+----------------------------------------------------+----------------------------------------------------+
+|   ID     |                      Title                         |                      Author                        |
++----------+----------------------------------------------------+----------------------------------------------------+
+|        1 |                           Mrs Rosie and the Priest |                                 Giovanni Boccaccio |
+|        2 |                The Saga of Gunnlaug Serpent-Tongue |                                               Anon |
+|        3 |                          Hikayat Musang Berjanggut |                            Abdullah Hj. Musa Lubis |
+|        4 |                                  The Little Prince |                           Antoine de Saint-Exupery |
+|        5 |                                    No Longer Human |                                        Osamu Dazai |
+|        6 |                                  The Metamorphosis |                                        Franz Kafka |
+|        7 |                               A Tale of Two Cities |                                    Charles Dickens |
+|        8 |                                Pride and Prejudice |                                        Jane Austen |
+|        9 |                                      Hong Lou Meng |                                        Cao Xue Qin |
+|       10 |                             To Kill A Mocking Bird |                                         Harper Lee |
++----------+----------------------------------------------------+----------------------------------------------------+
+
+Book with ID: 5
+Title: No Longer Human
+Author: Osamu Dazai
+has been found.
+Book with ID: 11
+Title: Hello
+Author: Lee Jian Ai has successfully been inserted.
+Book with ID: 11 has been deleted.
+Book with ID: 2 has been deleted.
+
+Book with ID: 5
+Title: No Longer Human
+Author: Osamu Dazai
+has been found.
++----------+----------------------------------------------------+----------------------------------------------------+
+|   ID     |                      Title                         |                      Author                        |
++----------+----------------------------------------------------+----------------------------------------------------+
+|        1 |                           Mrs Rosie and the Priest |                                 Giovanni Boccaccio |
+|        2 |                The Saga of Gunnlaug Serpent-Tongue |                                               Anon |
+|        3 |                          Hikayat Musang Berjanggut |                            Abdullah Hj. Musa Lubis |
+|        4 |                                  The Little Prince |                           Antoine de Saint-Exupery |
+|        5 |                                    No Longer Human |                                        Osamu Dazai |
+|        6 |                                  The Metamorphosis |                                        Franz Kafka |
+|        7 |                               A Tale of Two Cities |                                    Charles Dickens |
+|        8 |                                Pride and Prejudice |                                        Jane Austen |
+|        9 |                                      Hong Lou Meng |                                        Cao Xue Qin |
+|       10 |                             To Kill A Mocking Bird |                                         Harper Lee |
++----------+----------------------------------------------------+----------------------------------------------------+
+
+Book with ID: 8
+Title: Pride and Prejudice
+Author: Jane Austen
+has been found.
+
+Book with ID: 1
+Title: Mrs Rosie and the Priest
+Author: Giovanni Boccaccio
+has been found.
+Book with ID: 2 has been deleted.
+
+Book with ID: 10
+Title: To Kill A Mocking Bird
+Author: Harper Lee
+has been found.
+Book with title "the saga of gunnlaug serpent-tongue" not found.
+
+Book with ID: 3
+Title: Hikayat Musang Berjanggut
+Author: Abdullah Hj. Musa Lubis
+has been found.
+
+Book with ID: 4
+Title: The Little Prince
+Author: Antoine de Saint-Exupery
+has been found.
+
+Book with ID: 5
+Title: No Longer Human
+Author: Osamu Dazai
+has been found.
+Book with title "metamorphose" not found.
+
+Book with ID: 6
+Title: The Metamorphosis
+Author: Franz Kafka
+has been found.
+
+Book with ID: 1
+Title: Mrs Rosie and the Priest
+Author: Giovanni Boccaccio
+has been found.
+
+Book with ID: 2
+Title: The Saga of Gunnlaug Serpent-Tongue
+Author: Anon
+has been found.
+
+Book with ID: 3
+Title: Hikayat Musang Berjanggut
+Author: Abdullah Hj. Musa Lubis
+has been found.
+
+Book with ID: 4
+Title: The Little Prince
+Author: Antoine de Saint-Exupery
+has been found.
+
+Book with ID: 5
+Title: No Longer Human
+Author: Osamu Dazai
+has been found.
+
+Book with ID: 6
+Title: The Metamorphosis
+Author: Franz Kafka
+has been found.
+
+Book with ID: 7
+Title: A Tale of Two Cities
+Author: Charles Dickens
+has been found.
+
+Book with ID: 8
+Title: Pride and Prejudice
+Author: Jane Austen
+has been found.
+
+Book with ID: 9
+Title: Hong Lou Meng
+Author: Cao Xue Qin
+has been found.
+
+Book with ID: 10
+Title: To Kill A Mocking Bird
+Author: Harper Lee
+has been found.
++----------+----------------------------------------------------+----------------------------------------------------+
+|   ID     |                      Title                         |                      Author                        |
++----------+----------------------------------------------------+----------------------------------------------------+
+|        7 |                               A Tale of Two Cities |                                    Charles Dickens |
+|        3 |                          Hikayat Musang Berjanggut |                            Abdullah Hj. Musa Lubis |
+|        9 |                                      Hong Lou Meng |                                        Cao Xue Qin |
+|        1 |                           Mrs Rosie and the Priest |                                 Giovanni Boccaccio |
+|        5 |                                    No Longer Human |                                        Osamu Dazai |
+|        8 |                                Pride and Prejudice |                                        Jane Austen |
+|        4 |                                  The Little Prince |                           Antoine de Saint-Exupery |
+|        6 |                                  The Metamorphosis |                                        Franz Kafka |
+|        2 |                The Saga of Gunnlaug Serpent-Tongue |                                               Anon |
+|       10 |                             To Kill A Mocking Bird |                                         Harper Lee |
++----------+----------------------------------------------------+----------------------------------------------------+
++----------+----------------------------------------------------+----------------------------------------------------+
+|   ID     |                      Title                         |                      Author                        |
++----------+----------------------------------------------------+----------------------------------------------------+
+|        7 |                               A Tale of Two Cities |                                    Charles Dickens |
+|        3 |                          Hikayat Musang Berjanggut |                            Abdullah Hj. Musa Lubis |
+|        9 |                                      Hong Lou Meng |                                        Cao Xue Qin |
+|        1 |                           Mrs Rosie and the Priest |                                 Giovanni Boccaccio |
+|        5 |                                    No Longer Human |                                        Osamu Dazai |
+|        8 |                                Pride and Prejudice |                                        Jane Austen |
+|        4 |                                  The Little Prince |                           Antoine de Saint-Exupery |
+|        6 |                                  The Metamorphosis |                                        Franz Kafka |
+|        2 |                The Saga of Gunnlaug Serpent-Tongue |                                               Anon |
+|       10 |                             To Kill A Mocking Bird |                                         Harper Lee |
++----------+----------------------------------------------------+----------------------------------------------------+
+Book with ID: 11
+Title: Harry Potter
+Author: JK Rowling
+has successfully been inserted.
++----------+----------------------------------------------------+----------------------------------------------------+
+|   ID     |                      Title                         |                      Author                        |
++----------+----------------------------------------------------+----------------------------------------------------+
+|        7 |                               A Tale of Two Cities |                                    Charles Dickens |
+|       11 |                                       Harry Potter |                                         JK Rowling |
+|        3 |                          Hikayat Musang Berjanggut |                            Abdullah Hj. Musa Lubis |
+|        9 |                                      Hong Lou Meng |                                        Cao Xue Qin |
+|        1 |                           Mrs Rosie and the Priest |                                 Giovanni Boccaccio |
+|        5 |                                    No Longer Human |                                        Osamu Dazai |
+|        8 |                                Pride and Prejudice |                                        Jane Austen |
+|        4 |                                  The Little Prince |                           Antoine de Saint-Exupery |
+|        6 |                                  The Metamorphosis |                                        Franz Kafka |
+|        2 |                The Saga of Gunnlaug Serpent-Tongue |                                               Anon |
+|       10 |                             To Kill A Mocking Bird |                                         Harper Lee |
++----------+----------------------------------------------------+----------------------------------------------------+
+Book with ID 11 not found.
+
+Book with ID: 7
+Title: A Tale of Two Cities
+Author: Charles Dickens
+has been found.
+Book with ID: 10 has been deleted.
++----------+----------------------------------------------------+----------------------------------------------------+
+|   ID     |                      Title                         |                      Author                        |
++----------+----------------------------------------------------+----------------------------------------------------+
+|        7 |                               A Tale of Two Cities |                                    Charles Dickens |
+|       11 |                                       Harry Potter |                                         JK Rowling |
+|        3 |                          Hikayat Musang Berjanggut |                            Abdullah Hj. Musa Lubis |
+|        9 |                                      Hong Lou Meng |                                        Cao Xue Qin |
+|        1 |                           Mrs Rosie and the Priest |                                 Giovanni Boccaccio |
+|        5 |                                    No Longer Human |                                        Osamu Dazai |
+|        8 |                                Pride and Prejudice |                                        Jane Austen |
+|        4 |                                  The Little Prince |                           Antoine de Saint-Exupery |
+|        6 |                                  The Metamorphosis |                                        Franz Kafka |
+|        2 |                The Saga of Gunnlaug Serpent-Tongue |                                               Anon |
++----------+----------------------------------------------------+----------------------------------------------------+
++----------+----------------------------------------------------+----------------------------------------------------+
+|   ID     |                      Title                         |                      Author                        |
++----------+----------------------------------------------------+----------------------------------------------------+
+|        7 |                               A Tale of Two Cities |                                    Charles Dickens |
+|       11 |                                       Harry Potter |                                         JK Rowling |
+|        3 |                          Hikayat Musang Berjanggut |                            Abdullah Hj. Musa Lubis |
+|        9 |                                      Hong Lou Meng |                                        Cao Xue Qin |
+|        1 |                           Mrs Rosie and the Priest |                                 Giovanni Boccaccio |
+|        5 |                                    No Longer Human |                                        Osamu Dazai |
+|        8 |                                Pride and Prejudice |                                        Jane Austen |
+|        4 |                                  The Little Prince |                           Antoine de Saint-Exupery |
+|        6 |                                  The Metamorphosis |                                        Franz Kafka |
+|        2 |                The Saga of Gunnlaug Serpent-Tongue |                                               Anon |
+|       10 |                                              hello |                                        lee jian ai |
++----------+----------------------------------------------------+----------------------------------------------------++----------+----------------------------------------------------+----------------------------------------------------+
+|   ID     |                      Title                         |                      Author                        |
++----------+----------------------------------------------------+----------------------------------------------------+
+|        7 |                               A Tale of Two Cities |                                    Charles Dickens |
+|       11 |                                       Harry Potter |                                         JK Rowling |
+|       10 |                                              Hello |                                        Lee jian ai |
+|        3 |                          Hikayat Musang Berjanggut |                            Abdullah Hj. Musa Lubis |
+|        9 |                                      Hong Lou Meng |                                        Cao Xue Qin |
+|        1 |                           Mrs Rosie and the Priest |                                 Giovanni Boccaccio |
+|        5 |                                    No Longer Human |                                        Osamu Dazai |
+|        8 |                                Pride and Prejudice |                                        Jane Austen |
+|        4 |                                  The Little Prince |                           Antoine de Saint-Exupery |
+|        6 |                                  The Metamorphosis |                                        Franz Kafka |
+|        2 |                The Saga of Gunnlaug Serpent-Tongue |                                               Anon |
++----------+----------------------------------------------------+----------------------------------------------------+

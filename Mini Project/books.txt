@@ -1,0 +1,11 @@
+7,A Tale of Two Cities,Charles Dickens
+11,Harry Potter,JK Rowling
+3,Hikayat Musang Berjanggut,Abdullah Hj. Musa Lubis
+9,Hong Lou Meng,Cao Xue Qin
+1,Mrs Rosie and the Priest,Giovanni Boccaccio
+5,No Longer Human,Osamu Dazai
+10,Hello, Lee jian ai
+8,Pride and Prejudice,Jane Austen
+4,The Little Prince,Antoine de Saint-Exupery
+6,The Metamorphosis,Franz Kafka
+2,The Saga of Gunnlaug Serpent-Tongue,Anon
